@@ -1,0 +1,314 @@
+INFO 2025-02-09 19:42:59,049 autoreload Watching for file changes with StatReloader
+WARNING 2025-02-09 19:43:02,239 log Not Found: /
+WARNING 2025-02-09 19:43:02,239 basehttp "GET / HTTP/1.1" 404 2762
+INFO 2025-02-09 19:43:07,066 basehttp "GET /admin/ HTTP/1.1" 200 6219
+INFO 2025-02-09 19:43:07,208 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:07,209 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:07,209 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:07,265 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:07,266 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:07,266 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:07,283 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:07,295 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:07,296 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+WARNING 2025-02-09 19:43:18,811 log Not Found: /api
+WARNING 2025-02-09 19:43:18,812 basehttp "GET /api HTTP/1.1" 404 2789
+WARNING 2025-02-09 19:43:26,640 log Method Not Allowed: /api/token/
+WARNING 2025-02-09 19:43:26,640 basehttp "GET /api/token/ HTTP/1.1" 405 7609
+INFO 2025-02-09 19:43:26,682 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:26,684 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:26,686 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:26,689 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:26,691 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:26,691 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:26,691 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:26,693 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:26,693 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:26,695 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:26,695 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:43:26,702 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2025-02-09 19:43:39,082 log Not Found: /api/v1/docs/
+WARNING 2025-02-09 19:43:39,082 basehttp "GET /api/v1/docs/ HTTP/1.1" 404 5680
+WARNING 2025-02-09 19:43:39,238 log Not Found: /favicon.ico
+WARNING 2025-02-09 19:43:39,239 basehttp "GET /favicon.ico HTTP/1.1" 404 2813
+INFO 2025-02-09 19:43:51,321 basehttp "GET /api/v1/documents/docs HTTP/1.1" 301 0
+WARNING 2025-02-09 19:43:51,332 log Unauthorized: /api/v1/documents/docs/
+WARNING 2025-02-09 19:43:51,334 basehttp "GET /api/v1/documents/docs/ HTTP/1.1" 401 5388
+INFO 2025-02-09 19:43:51,491 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2025-02-09 19:43:51,511 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2025-02-09 19:43:51,525 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2025-02-09 19:43:51,539 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2025-02-09 19:43:51,621 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2025-02-09 19:43:51,649 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2025-02-09 19:43:51,655 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2025-02-09 19:43:51,686 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2025-02-09 19:43:51,702 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2025-02-09 19:43:51,709 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2025-02-09 19:43:51,720 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2025-02-09 19:43:51,722 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2025-02-09 19:44:31,081 autoreload Watching for file changes with StatReloader
+WARNING 2025-02-09 19:44:32,231 log Not Found: /
+WARNING 2025-02-09 19:44:32,232 basehttp "GET / HTTP/1.1" 404 3120
+WARNING 2025-02-09 19:44:34,596 log Not Found: /api
+WARNING 2025-02-09 19:44:34,597 basehttp "GET /api HTTP/1.1" 404 3147
+INFO 2025-02-09 19:44:36,656 basehttp "GET /api/v1/ HTTP/1.1" 200 5294
+INFO 2025-02-09 19:44:37,891 basehttp "GET /api/v1/docs HTTP/1.1" 301 0
+ERROR 2025-02-09 19:44:38,054 log Internal Server Error: /api/v1/docs/
+Traceback (most recent call last):
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\drf_yasg\renderers.py", line 79, in render
+    return render_to_string(self.template, renderer_context, renderer_context['request'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: drf-yasg/swagger-ui.html
+ERROR 2025-02-09 19:44:38,057 basehttp "GET /api/v1/docs/ HTTP/1.1" 500 94354
+INFO 2025-02-09 19:44:57,118 basehttp "GET /api/v1/redoc HTTP/1.1" 301 0
+ERROR 2025-02-09 19:44:57,159 log Internal Server Error: /api/v1/redoc/
+Traceback (most recent call last):
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\drf_yasg\renderers.py", line 79, in render
+    return render_to_string(self.template, renderer_context, renderer_context['request'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: drf-yasg/redoc.html
+ERROR 2025-02-09 19:44:57,163 basehttp "GET /api/v1/redoc/ HTTP/1.1" 500 92199
+INFO 2025-02-09 19:48:10,189 autoreload Watching for file changes with StatReloader
+WARNING 2025-02-09 19:48:11,628 log Not Found: /
+WARNING 2025-02-09 19:48:11,628 basehttp "GET / HTTP/1.1" 404 3120
+WARNING 2025-02-09 19:48:13,752 log Not Found: /api
+WARNING 2025-02-09 19:48:13,752 basehttp "GET /api HTTP/1.1" 404 3147
+INFO 2025-02-09 19:48:14,955 basehttp "GET /api/v1/ HTTP/1.1" 200 5294
+ERROR 2025-02-09 19:48:17,011 log Internal Server Error: /api/v1/docs/
+Traceback (most recent call last):
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\rest_framework\response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\drf_yasg\renderers.py", line 79, in render
+    return render_to_string(self.template, renderer_context, renderer_context['request'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'schema-json' not found. 'schema-json' is not a valid view function or pattern name.
+ERROR 2025-02-09 19:48:17,016 basehttp "GET /api/v1/docs/ HTTP/1.1" 500 142130
+INFO 2025-02-09 19:49:55,267 autoreload Watching for file changes with StatReloader
+WARNING 2025-02-09 19:49:57,315 log Not Found: /
+WARNING 2025-02-09 19:49:57,315 basehttp "GET / HTTP/1.1" 404 3301
+INFO 2025-02-09 19:50:01,751 basehttp "GET /api/v1/ HTTP/1.1" 200 5294
+INFO 2025-02-09 19:50:04,853 basehttp "GET /api/v1/docs/ HTTP/1.1" 200 566
+INFO 2025-02-09 19:50:07,011 basehttp "GET /api/v1/schema.json HTTP/1.1" 200 5692
+WARNING 2025-02-09 19:50:29,559 log Unauthorized: /api/token/
+WARNING 2025-02-09 19:50:29,559 basehttp "POST /api/token/ HTTP/1.1" 401 63
+INFO 2025-02-09 19:50:41,423 basehttp "GET /admin/ HTTP/1.1" 200 6219
+INFO 2025-02-09 19:50:42,137 basehttp "GET /admin/ HTTP/1.1" 200 6219
+INFO 2025-02-09 19:50:44,090 basehttp "GET /admin/auth/user/add/ HTTP/1.1" 200 11762
+INFO 2025-02-09 19:50:44,155 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,160 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,160 basehttp "GET /static/admin/css/unusable_password_field.css HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,163 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,164 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,165 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,167 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,168 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,169 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,169 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,264 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-02-09 19:50:44,304 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,304 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,472 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:44,491 basehttp "GET /static/admin/js/unusable_password_field.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:50:58,431 basehttp "POST /admin/auth/user/add/ HTTP/1.1" 200 12047
+INFO 2025-02-09 19:50:58,647 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-02-09 19:51:07,279 basehttp "POST /admin/auth/user/add/ HTTP/1.1" 200 11955
+INFO 2025-02-09 19:51:07,360 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-02-09 19:51:33,711 basehttp "POST /admin/auth/user/add/ HTTP/1.1" 200 11943
+INFO 2025-02-09 19:51:33,792 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-02-09 19:51:47,334 basehttp "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2025-02-09 19:51:47,486 basehttp "GET /admin/auth/user/3/change/ HTTP/1.1" 200 21654
+INFO 2025-02-09 19:51:47,532 basehttp "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:51:47,533 basehttp "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:51:47,533 basehttp "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:51:47,533 basehttp "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO 2025-02-09 19:51:47,589 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-02-09 19:51:47,623 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-02-09 19:51:47,679 basehttp "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 304 0
+INFO 2025-02-09 19:51:47,680 basehttp "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 304 0
+INFO 2025-02-09 19:51:47,680 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-02-09 19:51:47,681 basehttp "GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+INFO 2025-02-09 19:51:47,681 basehttp "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2025-02-09 19:51:47,681 basehttp "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2025-02-09 19:51:51,301 basehttp "GET /admin/ HTTP/1.1" 200 6555
+INFO 2025-02-09 19:51:53,851 basehttp "GET /api/v1/docs/ HTTP/1.1" 200 566
+INFO 2025-02-09 19:51:54,109 basehttp "GET /api/v1/schema.json HTTP/1.1" 200 5692
+INFO 2025-02-09 19:52:08,593 basehttp "POST /api/token/ HTTP/1.1" 200 483
+WARNING 2025-02-09 19:52:42,575 log Unauthorized: /api/v1/documents/
+WARNING 2025-02-09 19:52:42,576 basehttp "GET /api/v1/documents/ HTTP/1.1" 401 58
+WARNING 2025-02-09 19:53:00,277 log Unauthorized: /api/v1/documents/
+WARNING 2025-02-09 19:53:00,277 basehttp "GET /api/v1/documents/ HTTP/1.1" 401 58
+INFO 2025-02-09 19:54:05,771 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+WARNING 2025-02-09 19:54:22,096 log Unauthorized: /api/v1/documents/
+WARNING 2025-02-09 19:54:22,096 basehttp "GET /api/v1/documents/ HTTP/1.1" 401 58
+WARNING 2025-02-09 19:54:47,813 log Unauthorized: /api/v1/documents/
+WARNING 2025-02-09 19:54:47,814 basehttp "GET /api/v1/documents/ HTTP/1.1" 401 58
+INFO 2025-02-09 19:56:11,330 autoreload Watching for file changes with StatReloader
+INFO 2025-02-09 19:56:18,194 basehttp "GET /api/v1/documents/redoc HTTP/1.1" 301 0
+WARNING 2025-02-09 19:56:18,219 log Unauthorized: /api/v1/documents/redoc/
+WARNING 2025-02-09 19:56:18,220 basehttp "GET /api/v1/documents/redoc/ HTTP/1.1" 401 5393
+INFO 2025-02-09 19:56:32,511 basehttp "GET /api/v1/redoc HTTP/1.1" 301 0
+INFO 2025-02-09 19:56:32,517 basehttp "GET /api/v1/redoc/ HTTP/1.1" 200 256
+INFO 2025-02-09 19:56:42,218 basehttp "GET /api/v1/docs/ HTTP/1.1" 200 566
+INFO 2025-02-09 19:56:42,653 basehttp "GET /api/v1/schema.json HTTP/1.1" 200 5545
+INFO 2025-02-09 19:56:46,683 basehttp "GET /api/v1/redoc/ HTTP/1.1" 200 256
+WARNING 2025-02-09 19:57:01,963 log Unauthorized: /api/v1/documents/
+WARNING 2025-02-09 19:57:01,963 basehttp "GET /api/v1/documents/ HTTP/1.1" 401 58
+WARNING 2025-02-09 19:57:22,009 log Unauthorized: /api/v1/documents/
+WARNING 2025-02-09 19:57:22,010 basehttp "GET /api/v1/documents/ HTTP/1.1" 401 58
+WARNING 2025-02-09 19:57:46,158 log Unauthorized: /api/token/
+WARNING 2025-02-09 19:57:46,158 basehttp "POST /api/token/ HTTP/1.1" 401 63
+INFO 2025-02-09 19:57:56,736 basehttp "POST /api/token/ HTTP/1.1" 200 483
+WARNING 2025-02-09 19:58:36,346 log Unauthorized: /api/v1/documents/
+WARNING 2025-02-09 19:58:36,346 basehttp "POST /api/v1/documents/ HTTP/1.1" 401 183
+INFO 2025-02-09 19:58:42,785 views Документ 0a4bc12a-37b1-4712-a92c-0f92243c317f сохранён в файл: C:\Users\d_mom\PycharmProjects\pythonProject8\myproject\media/documents\0a4bc12a-37b1-4712-a92c-0f92243c317f.txt
+INFO 2025-02-09 19:58:42,785 views Документ 0a4bc12a-37b1-4712-a92c-0f92243c317f успешно создан пользователем qwee
+INFO 2025-02-09 19:58:42,795 basehttp "POST /api/v1/documents/ HTTP/1.1" 201 263
+INFO 2025-02-09 19:58:47,998 views Документ 3a0ed2d1-9e26-4c7c-878e-0f4f63900079 сохранён в файл: C:\Users\d_mom\PycharmProjects\pythonProject8\myproject\media/documents\3a0ed2d1-9e26-4c7c-878e-0f4f63900079.txt
+INFO 2025-02-09 19:58:47,998 views Документ 3a0ed2d1-9e26-4c7c-878e-0f4f63900079 успешно создан пользователем qwee
+INFO 2025-02-09 19:58:47,999 basehttp "POST /api/v1/documents/ HTTP/1.1" 201 263
+INFO 2025-02-09 19:58:49,280 views Документ 742656e1-d309-454f-b43b-2574f8d93219 сохранён в файл: C:\Users\d_mom\PycharmProjects\pythonProject8\myproject\media/documents\742656e1-d309-454f-b43b-2574f8d93219.txt
+INFO 2025-02-09 19:58:49,281 views Документ 742656e1-d309-454f-b43b-2574f8d93219 успешно создан пользователем qwee
+INFO 2025-02-09 19:58:49,281 basehttp "POST /api/v1/documents/ HTTP/1.1" 201 263
+WARNING 2025-02-09 19:59:04,405 log Bad Request: /api/v1/documents/
+WARNING 2025-02-09 19:59:04,405 basehttp "POST /api/v1/documents/ HTTP/1.1" 400 55
+WARNING 2025-02-09 19:59:14,016 log Bad Request: /api/v1/documents/
+WARNING 2025-02-09 19:59:14,016 basehttp "POST /api/v1/documents/ HTTP/1.1" 400 55
+WARNING 2025-02-09 19:59:15,153 log Bad Request: /api/v1/documents/
+WARNING 2025-02-09 19:59:15,153 basehttp "POST /api/v1/documents/ HTTP/1.1" 400 55
+INFO 2025-02-09 19:59:50,458 views Документ 6041c843-8dd8-4d24-8c15-83b90145c956 сохранён в файл: C:\Users\d_mom\PycharmProjects\pythonProject8\myproject\media/documents\6041c843-8dd8-4d24-8c15-83b90145c956.txt
+INFO 2025-02-09 19:59:50,458 views Документ 6041c843-8dd8-4d24-8c15-83b90145c956 успешно создан пользователем qwee
+INFO 2025-02-09 19:59:50,459 basehttp "POST /api/v1/documents/ HTTP/1.1" 201 214
+WARNING 2025-02-09 22:54:31,052 log Unauthorized: /api/v1/documents/
+WARNING 2025-02-09 22:54:31,055 basehttp "GET /api/v1/documents/ HTTP/1.1" 401 183
+INFO 2025-02-09 22:54:56,174 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2025-02-09 22:55:03,759 basehttp "GET /api/v1/documents/ HTTP/1.1" 200 1272
+INFO 2025-02-09 22:55:10,001 basehttp "GET /api/v1/documents/1 HTTP/1.1" 301 0
+WARNING 2025-02-09 22:55:10,081 log Not Found: /api/v1/documents/1/
+WARNING 2025-02-09 22:55:10,082 basehttp "GET /api/v1/documents/1/ HTTP/1.1" 404 23
+INFO 2025-02-09 22:55:14,427 basehttp "GET /api/v1/documents/ HTTP/1.1" 200 1272
+INFO 2025-02-09 22:55:20,400 basehttp "GET /api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1 HTTP/1.1" 301 0
+INFO 2025-02-09 22:55:20,477 basehttp "GET /api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1/ HTTP/1.1" 200 263
+ERROR 2025-02-09 22:56:01,229 log Internal Server Error: /api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1
+Traceback (most recent call last):
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via PUT, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining PUT data. Change your form to point to 127.0.0.1:8000/api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2025-02-09 22:56:01,236 basehttp "PUT /api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1 HTTP/1.1" 500 71073
+INFO 2025-02-09 22:56:14,117 basehttp "GET /api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1 HTTP/1.1" 301 0
+INFO 2025-02-09 22:56:14,219 basehttp "GET /api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1/ HTTP/1.1" 200 263
+ERROR 2025-02-09 22:56:26,865 log Internal Server Error: /api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1
+Traceback (most recent call last):
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\d_mom\PycharmProjects\pythonProject8\.venv\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via PUT, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining PUT data. Change your form to point to 127.0.0.1:8000/api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2025-02-09 22:56:26,867 basehttp "PUT /api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1 HTTP/1.1" 500 71073
+INFO 2025-02-09 22:59:05,246 views Документ 97280265-c567-4939-9229-f0681fdb56d1 сохранён в файл: C:\Users\d_mom\PycharmProjects\pythonProject8\myproject\media/documents\97280265-c567-4939-9229-f0681fdb56d1.txt
+INFO 2025-02-09 22:59:05,251 views Документ 97280265-c567-4939-9229-f0681fdb56d1 обновлён пользователем qwee
+INFO 2025-02-09 22:59:05,252 basehttp "PUT /api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1/ HTTP/1.1" 200 214
+WARNING 2025-02-09 23:00:08,627 log Unauthorized: /api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1/
+WARNING 2025-02-09 23:00:08,630 basehttp "DELETE /api/v1/documents/97280265-c567-4939-9229-f0681fdb56d1/ HTTP/1.1" 401 183
+WARNING 2025-02-09 23:01:03,982 log Unauthorized: /api/v1/documents/
+WARNING 2025-02-09 23:01:03,983 basehttp "GET /api/v1/documents/?status=approved%0A HTTP/1.1" 401 183
+INFO 2025-02-09 23:01:22,858 basehttp "POST /api/token/refresh/ HTTP/1.1" 200 241
+WARNING 2025-02-09 23:01:46,629 log Bad Request: /api/v1/documents/
+WARNING 2025-02-09 23:01:46,629 basehttp "GET /api/v1/documents/?status=approved%0A HTTP/1.1" 400 85
+INFO 2025-02-09 23:02:02,247 basehttp "GET /api/v1/documents/?doc_type=report%0A HTTP/1.1" 200 2
+INFO 2025-02-09 23:02:07,000 basehttp "GET /api/v1/documents/?doc_type=%0A HTTP/1.1" 200 1223
+INFO 2025-02-09 23:02:19,498 basehttp "GET /api/v1/documents/?doc_type=contract%0A HTTP/1.1" 200 793
+WARNING 2025-02-09 23:02:30,306 log Bad Request: /api/v1/documents/
+WARNING 2025-02-09 23:02:30,307 basehttp "GET /api/v1/documents/?status=draft%0A HTTP/1.1" 400 82
+INFO 2025-02-09 23:02:42,768 basehttp "GET /api/v1/documents/?created_at=2025-02-01 HTTP/1.1" 200 2
+INFO 2025-02-09 23:02:51,313 basehttp "GET /api/v1/documents/?search=%D0%BE%D1%82%D1%87%D0%B5%D1%82 HTTP/1.1" 200 2
+INFO 2025-02-09 23:05:45,853 autoreload Watching for file changes with StatReloader
+WARNING 2025-02-10 05:10:15,049 log Not Found: /

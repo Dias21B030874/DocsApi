@@ -1,0 +1,8 @@
+Title: Договор аренды
+Type: contract
+Status: draft
+Created At: 2025-02-09 14:58:47.994404+00:00
+Owner: qwee
+
+--- Content ---
+Текст документа...

@@ -1,0 +1,8 @@
+Title: string
+Type: string
+Status: draft
+Created At: 2025-02-08 05:58:22.441126+00:00
+Owner: dias
+
+--- Content ---
+string
